@@ -20,11 +20,11 @@ in this project we are going to add some functions and resource interface in ord
 
 ### Executing program
 
-* first you need to deploy the standard nft contarct in your liked account like 0x02
-* second you need to deploy the crypto poops nft contract in another account like 0x01
+* first you need to deploy the standard nft contarct in your liked account like 0x06
+* second you need to deploy the crypto poops nft contract in another account like 0x05
 * third you need to create an empty collection in any account in transaction section
 * fourth you need to mint an nft by adding meta data in transaction section 
-* fifth you nned to get id of nft you minted in script part
+* fifth you need to get id of nft you minted in script part
 * lastly just read the metadata in the nft
 ```
 Deploy,Deploy,Send,Send,Execute,Execute
@@ -36,7 +36,7 @@ as you can check any doubts or command of line you can use finished contract as 
 
 
 ```
-iamoneofthechoosen1@gmail.com
+afzalrambo4@gmail.com
 ```
 
 ## Authors
@@ -44,9 +44,9 @@ iamoneofthechoosen1@gmail.com
 Contributors names and contact info
 
 metacrafters 
- [@DabiIsHere](iamoneofthechoosen1@gmail.com)
+ [@Akit0](afzalrambo4@gmail.com)
 
 
 ## License
 
-This project is licensed under the [DabiIsHere] License - see the LICENSE.md file for details
+This project is licensed under the [Akit0] License - see the LICENSE.md file for details
